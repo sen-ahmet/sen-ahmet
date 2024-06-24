@@ -4,12 +4,12 @@
 
 - - - - -
 
-![sen-ahmetstat-3](https://github-readme-stats.vercel.app/api/top-langs/?username=sen-ahmet&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+![sen-ahmet-stat-3](https://github-readme-stats.vercel.app/api/top-langs/?username=sen-ahmet&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
 - - - - -
 
-![sen-ahmetstat-1](https://github-readme-stats.vercel.app/api?username=sen-ahmet&theme=buefy&show_icons=true&hide_border=true&count_private=true)
-![sen-ahmetstat-2](https://github-readme-streak-stats.herokuapp.com/?user=sen-ahmet&theme=buefy&hide_border=true)
+![sen-ahmet-stat-1](https://github-readme-stats.vercel.app/api?username=sen-ahmet&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![sen-ahmet-stat-2](https://github-readme-streak-stats.herokuapp.com/?user=sen-ahmet&theme=buefy&hide_border=true)
 
 - - - - -
 
